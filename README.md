@@ -1,2 +1,2 @@
 # covid_vaccine
-about the website which is to be created  to give the info about various  vaccines which has been approved in india as well as internationally
+about the website which is to be created  to give the info about various  vaccines which has been approved in india as well as internationally .A thought of making a website where anyone can get the info about the vaccination process and also get access for the appointment. Here we also mentioned brief information about the vaccines and their future aspects. Here is the link of our youtube video explaination [https://youtu.be/W_VMXTTEOII](https://youtu.be/W_VMXTTEOII)
